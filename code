@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LUX VENTUS</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #333; color: #fff; padding: 1rem; text-align: center; }
+        nav ul { list-style: none; padding: 0; }
+        nav ul li { display: inline; margin: 0 1rem; }
+        nav ul li a { color: #fff; text-decoration: none; }
+        .container { padding: 2rem; }
+        .section { margin-bottom: 2rem; }
+        .section h2 { margin-top: 0; }
+        .section p { margin: 1rem 0; }
+        .read-more { color: #007BFF; text-decoration: none; }
+        footer { background: #333; color: #fff; text-align: center; padding: 1rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>LUX VENTUS</h1>
+        <nav>
+            <ul>
+                <li><a href="#fashion">Fashion</a></li>
+                <li><a href="#lifestyle">Lifestyle</a></li>
+                <li><a href="#spiritual">Spiritual</a></li>
+                <li><a href="#mental-health">Mental Health</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="fashion" class="section">
+            <h2>Fashion</h2>
+            <article>
+                <h3>COMING IN HOT!</h3>
+                <p>The Latest Trends from the Moon Fashion Week.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut et massa mi. Aliquam in hendrerit urna. Pellentesque sit amet sapien fringilla, mattis ligula consectetur, ultrices mauris.</p>
+                <a href="#" class="read-more">READ MORE</a>
+            </article>
+        </section>
+
+        <section id="lifestyle" class="section">
+            <h2>Lifestyle</h2>
+            <article>
+                <h3>10 Things to help you with social stress.</h3>
+                <p>The summer 2023 lineup is finally here.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur Pellentesque sit amet sapien fringilla, mattis mattis tellus. Nullam quis imperdiet augue. Vestibulum.</p>
+                <a href="#" class="read-more">READ MORE</a>
+            </article>
+        </section>
+
+        <section id="fashion" class="section">
+            <h2>Fashion</h2>
+            <article>
+                <h3>5 Reasons to avoid shopping on Saturdays</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur Pellentesque sit amet sapien fringilla, mattis mattis tellus. Nullam quis imperdiet augue. Vestibulum.</p>
+                <a href="#" class="read-more">READ MORE</a>
+            </article>
+        </section>
+
+        <section id="ensembles" class="section">
+            <h2>Ensembles</h2>
+            <article>
+                <h3>10 Brands that remained faithful to your classy look.</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur Pellentesque sit amet sapien fringilla, mattis mattis tellus. Nullam quis imperdiet augue. Vestibulum.</p>
+                <a href="#" class="read-more">READ MORE</a>
+            </article>
+        </section>
+
+        <section id="mental-health" class="section">
+            <h2>Mental Health</h2>
+            <article>
+                <h3>Mental health tips to cope with stress.</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur Pellentesque sit amet sapien fringilla, mattis mattis tellus. Nullam quis imperdiet augue. Vestibulum.</p>
+                <a href="#" class="read-more">READ MORE</a>
+            </article>
+        </section>
+    </div>
+
+    <footer>
+        <p>Let’s Hang Out.</p>
+    </footer>
+</body>
+</html>
